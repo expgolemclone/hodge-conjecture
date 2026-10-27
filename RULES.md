@@ -1,2 +1,1 @@
-- 既存研究を調べてから考えろ.
-- 大抵既出なので.
+[expgolemclone/math-rules/RULES.md](https://github.com/expgolemclone/math-rules/blob/main/RULES.md) を参照する.
